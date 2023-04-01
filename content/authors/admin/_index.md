@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Maximiliano Casas Martínez
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Reinforcement Learning, Natural Language Processing and Embodied Learning. I am also interested in Monetary Theory and the intersection between Artififical Intelligence and Economics. 
 
 #interests:
 #- Artificial Intelligence
@@ -66,8 +66,6 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Max Casas is a data scientist at Deep dive. He is studying a double major in Applied Mathematics and Economics. His research interests include Reinforcement Learning with Human Feedback, Multi Agent Reinforcement Learning, Natural Language Processing and Embodied Learning. He is also interested in Monetary Theory and the intersection between Artififical Intelligence and Economics.  
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
