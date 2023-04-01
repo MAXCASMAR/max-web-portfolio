@@ -25,7 +25,7 @@ experience:
   - title: Joint B.A., Applied Mathematics & Economics
     company: Instituto Tecnológico Autónomo de México
     company_url: ''
-    company_logo: itam
+    company_logo: org-x
     location: Mexico City
     date_start: '2019-08-01'
     date_end: '2024-05-01'
@@ -36,7 +36,7 @@ experience:
   - title: International Baccalaureate
     company: Instituto Tecnológico y de Estudios Superiores de Monterrey Campus Estado de México
     company_url: ''
-    company_logo: tec
+    company_logo: org-x
     location: State of Mexico
     date_start: '2016-08-01'
     date_end: '2019-05-31'
